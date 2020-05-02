@@ -2,6 +2,8 @@
 Simple website that detects faces from user submitted images using a facial recognition API<br>
 Uses PostgreSQL database to store user info
 
+![screenshot](public/screenshot.png)
+
 ## What I Learned
 Learned both front-end and back-end technologies<br>
 React.js/Redux<br>
